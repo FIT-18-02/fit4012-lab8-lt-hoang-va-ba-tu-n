@@ -16,7 +16,7 @@ Lab 8 kế thừa cách tổ chức repo của Lab 6 socket starter, nhưng thay
 ## Team members
 
 - **Thành viên 1**: Bùi Anh Tuấn - MSSV: 1871020619
-- **Thành viên 2**: Lương Thiện Hoàng - MSSV: 1871020
+- **Thành viên 2**: Lương Thiện Hoàng - MSSV: 1871020255
 
 ## Task division
 
