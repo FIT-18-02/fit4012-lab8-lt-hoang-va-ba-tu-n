@@ -20,16 +20,15 @@ Lab 8 kế thừa cách tổ chức repo của Lab 6 socket starter, nhưng thay
 
 ## Task division
 
-- **Thành viên 1 phụ trách chính**: TODO_ROLE_MEMBER_1
-- **Thành viên 2 phụ trách chính**: TODO_ROLE_MEMBER_2
-- **Phần làm chung**: TODO_SHARED_WORK
+- **Thành viên 1 phụ trách chính**: Xây dựng logic mã hóa/giải mã (`secure_transfer_utils.py`), thiết kế cấu trúc packet và lập trình `sender.py`.
+- **Thành viên 2 phụ trách chính**: Lập trình `receiver.py`, xử lý socket connection, thiết lập CI/CD và viết bộ unit test (`tests/`).
+- **Phần làm chung**: Kiểm tra lỗi (debugging), viết báo cáo `report-1page.md`, `threat-model-1page.md` và chuẩn bị logs demo.
 
 ## Demo roles
 
-- **Demo Sender / mã hóa / log gửi**: TODO_DEMO_ROLE_1
-- **Demo Receiver / giải mã / kiểm tra hash**: TODO_DEMO_ROLE_2
-- **Cả hai cùng trả lời câu hỏi mở rộng AES và chữ ký số**: TODO_DEMO_ROLE_SHARED
-
+- **Demo Sender / mã hóa / log gửi**: Bùi Anh Tuấn (Thao tác kỹ thuật local).
+- **Demo Receiver / giải mã / kiểm tra hash**: Lương Thiện Hoàng (Thao tác kỹ thuật local).
+- **Cả hai cùng trả lời câu hỏi mở rộng AES và chữ ký số**: Thực hiện trao đổi/giải đáp theo yêu cầu của giảng viên
 ---
 
 ## Mục tiêu học tập
