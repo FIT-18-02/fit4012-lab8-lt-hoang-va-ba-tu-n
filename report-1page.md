@@ -24,8 +24,8 @@ Xây dựng chương trình truyền dữ liệu an toàn qua socket bằng các
 
 ## 4. Kết quả minh chứng
 
-- Ảnh chụp màn hình Sender: TODO_SCREENSHOT_SENDER
-- Ảnh chụp màn hình Receiver: TODO_SCREENSHOT_RECEIVER
+- Ảnh chụp màn hình Sender:  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/368f130e-c170-49d1-a8b4-cb826b1d04eb" />
+- Ảnh chụp màn hình Receiver: <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9102bbb0-9b4d-4a90-bbe4-b9bb587912f7" />
 - File log Sender: `logs/sender_success.log`
 - File log Receiver: `logs/receiver_success.log`
 
